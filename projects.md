@@ -4,8 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Project 1](https://github.com/tux4kids/tuxmania) 
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+### [Git + Scratch](https://gitscratch.github.io/gitscratch/) 
+A git client for scratch. 
 
 ***
 
@@ -29,4 +29,4 @@ Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulu
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[blaze349@protonmail.com](mailto:blaze349@protonmail.com)

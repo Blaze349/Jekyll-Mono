@@ -1,6 +1,5 @@
-# Python - the real problem
 
-I've been thinking about why I don't like programming in python. 
+I've been contemplating about why I don't like programming in python. 
 I don't mind using python for shell scripting, its much better than bash scripting and with PyPi is super fast.
 But for general coding I find it difficult to read and write.
 

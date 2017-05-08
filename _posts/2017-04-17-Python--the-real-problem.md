@@ -1,7 +1,7 @@
 
 I've been contemplating about why I don't like programming in python. 
-I don't mind using python for shell scripting, its much better than bash scripting and with PyPi is super fast.
-But for general coding I find it difficult to read and write.
+I don't mind using python for shell scripting; it's more elegant than bash scripting and when use with PyPi it is super fast.
+**But**, for general programming, it is difficult to read and write.
 
 Look at this code below:
 ```python
@@ -37,6 +37,17 @@ Even for a print statement.
 ```python
 print "Hi universe!"
 ```
-This makes it hard for me, when reading new code or debugging new code, to quickly identify the conditions and the function parameters.
-Python, whitespace and minimalism is good but not when it sacrifices understanding. There is a reason we have full stops. 
-So we can easily identify when a sentence starts an stops.
+This makes it difficult, when reading new code or debugging new code, to quickly identify the conditions and the function parameters.
+
+There is a reason we have full stops and commas. Look at this sentence:
+> The core of extensible programming is defining functions. Python allows mandatory and optional arguments, keyword arguments, and even arbitrary argument lists.
+
+And compare with this:
+>The core of extensible programming is defining functions   Python allows mandatory and optional arguments  keyword arguments  and even arbitrary argument lists  
+
+It looks cleaner but it is harder to identify the clauses.
+
+Whitespace and minimalism is good but not when it sacrifices understanding.  
+
+**EDIT**: I know the print statement has changed in python 3.
+Yes, I know that this issue is made irrelevant with syntax highlighting. 

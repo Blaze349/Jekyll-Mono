@@ -25,7 +25,7 @@ A minimalistic noting application. Built with markdown.
  * User can choose dictionary
  * User can ask for names specific to languages/countries
  
- > I love rn. I use it to generate all the names of my characters in my stories, games and plays. - Anonymous source 
+ >I love rn. I use it to generate all the names of my characters in my stories, games and plays. - Anonymous source 
  
  [Download rn here!](https://github.com/Blaze349/Name-chooser/)
    

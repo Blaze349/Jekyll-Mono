@@ -9,7 +9,7 @@ A git client for scratch.
 
 ***
 
-### [Nota](https://blaze349.github.io/nota)
+### [Nota](https://blaze349.github.io/Nota)
 A minimalistic noting application. Built with markdown.
 
 ***

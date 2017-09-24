@@ -16,16 +16,13 @@ permalink: /projects/
 
 ## Other Projects
 
-### [Random Name](https://github.com/Blaze349/Name-chooser/)
+### Project 2
 
- This is a python tool that randomly chooses a name depending on the gender specified. Useful for anytime you need a name.
-  
- Todo:
-  
- * User can choose dictionary
- * User can ask for names specific to languages/countries
  
- >I love rn. I use it to generate all the names of my characters in my stories, games and plays. - Anonymous source 
+ Look it was even featured on CNN
+ 
+ >I love project 2.  - Anonymous official 
+ 
  
  [Download rn here!](https://github.com/Blaze349/Name-chooser/)
    

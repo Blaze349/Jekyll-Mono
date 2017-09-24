@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Blaze349
+name: I should add a name
 
 # Short bio or description (displayed in the header)
-description: The Optimus Maximus
+description: and a bio
 
 
 #
@@ -16,7 +16,7 @@ description: The Optimus Maximus
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: blaze349@protonmail.com
+  email: 
   facebook:
   flickr:
   github: Blaze349

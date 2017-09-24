@@ -4,13 +4,13 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Git + Scratch](https://gitscratch.github.io/gitscratch/) 
-A git client for scratch. 
+### Project 0
+
 
 ***
 
-### [Nota](https://blaze349.github.io/Nota)
-A minimalistic noting application. Built with markdown.
+### Project 1
+
 
 ***
 
@@ -36,5 +36,4 @@ A minimalistic noting application. Built with markdown.
 
 ## Contact me
 
-[blaze349@protonmail.com](mailto:blaze349@protonmail.com)
-\
+No
